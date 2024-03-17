@@ -34,7 +34,7 @@ my-app/
 ```
 
 ## Video Walkthrough of the project
-- [Youtube](https://www.youtube.com/watch?v=V1s_9XjVdTI&feature=youtu.be)
+- [Youtube](https://www.youtube.com)
 ## Features
 
 - Developed a user-friendly website for cab ride reservations, improving the booking experience for users.
